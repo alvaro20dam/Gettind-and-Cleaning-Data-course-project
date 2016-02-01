@@ -5,6 +5,7 @@ This code book summarizes the resulting data fields in 'tidy.txt'.
 
 * 'subject' - The ID of the test subject
 * 'activity' - The type of activity performed when the corresponding measurements were taken
+
 ##Measurements
 
 * 'tBodyAccMeanX'
@@ -12,16 +13,16 @@ This code book summarizes the resulting data fields in 'tidy.txt'.
 * 'tBodyAccMeanZ'
 * 'tBodyAccStdX'
 * 'tBodyAccStdY'
-*tBodyAccStdZ
-*tGravityAccMeanX
-*tGravityAccMeanY
-*tGravityAccMeanZ
-*tGravityAccStdX
-*tGravityAccStdY
-*tGravityAccStdZ
-*tBodyAccJerkMeanX
-*tBodyAccJerkMeanY
-*tBodyAccJerkMeanZ
+* 'tBodyAccStdZ'
+* 'tGravityAccMeanX'
+* 'tGravityAccMeanY'
+* 'tGravityAccMeanZ'
+* 'tGravityAccStdX'
+* 'tGravityAccStdY'
+* 'tGravityAccStdZ'
+* 'tBodyAccJerkMeanX'
+* 'tBodyAccJerkMeanY'
+* 'tBodyAccJerkMeanZ'
 *tBodyAccJerkStdX
 *tBodyAccJerkStdY
 *tBodyAccJerkStdZ
